@@ -1,9 +1,9 @@
-// fn main() {
-//     // let x=5;
-//     let mut x=5;
-//     println!("The value of x is: {}",x);
-//     x=6; //shows error as x is immuatable
-//     println!("The value of x is: {}",x);
+fn main() {
+    // let x=5;
+    let mut x=5;
+    println!("The value of x is: {}",x);
+    x=6; //shows error as x is immuatable
+    println!("The value of x is: {}",x);
 
 
 // //-----------------------------------------------
